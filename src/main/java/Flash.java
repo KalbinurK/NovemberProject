@@ -3,6 +3,8 @@ public class Flash {
 
         System.out.println("Flash run fast");
 
+        System.out.println("add fuctionality to the flash");
+
 
     }
 }
