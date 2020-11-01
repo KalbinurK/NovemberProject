@@ -4,5 +4,10 @@ public class  Batman {
 
         System.out.println("Batman");
         System.out.println("I will catch you jocker");
+        // batman is batman
+
+        //batmat has bat watch
+
+        // batman has bat bike
     }
 }
